@@ -280,7 +280,311 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Symbols:SSW-103-03-F-S"
+		(symbol "Symbols:LVK12R010DER"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 10.16 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "LVK12R010DER"
+				(at 10.16 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "OH_LVK12_OHM"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+				)
+			)
+			(property "Datasheet" "LVK12R010DER"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "LVK12R010DER"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "OH_LVK12_OHM"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "LVK12R010DER_0_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 2.54 -5.08)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy 5.715 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 -1.27) (xy 6.985 -3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 -3.81) (xy 8.255 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.255 -1.27) (xy 9.525 -3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.525 -3.81) (xy 10.795 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.795 -1.27) (xy 12.065 -3.81)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.065 -3.81) (xy 12.7 -2.54)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 0) (xy 15.24 -5.08)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -2.54) (xy 12.7 -2.54)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 -5.08 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 17.78 -5.08 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 17.78 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Symbols:SSQ-104-03-G-S"
 			(pin_names
 				(offset 1.016)
 			)
@@ -290,7 +594,7 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "J"
-				(at -8.12 5.08 0)
+				(at -5.08 6.35 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -300,18 +604,18 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "SSW-103-03-F-S"
-				(at -7.62 -7.62 0)
+			(property "Value" "SSQ-104-03-G-S"
+				(at -5.08 -8.89 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify left top)
 				)
 			)
-			(property "Footprint" "SSW-103-03-F-S:SAMTEC_SSW-103-03-F-S"
+			(property "Footprint" "SSQ-104-03-G-S:SAMTEC_SSQ-104-03-G-S"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -334,7 +638,7 @@
 					)
 				)
 			)
-			(property "Description" "3 Position Receptacle Connector 0.100 (2.54mm) Through Hole Gold"
+			(property "Description" "4 Position Receptacle Connector 0.100 (2.54mm) Through Hole Gold"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -347,6 +651,18 @@
 				)
 			)
 			(property "MF" "Samtec"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "8.81mm"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -382,7 +698,7 @@
 					(justify bottom)
 				)
 			)
-			(property "Check_prices" "https://www.snapeda.com/parts/SSW-103-03-F-S/Samtec/view-part/?ref=eda"
+			(property "Check_prices" "https://www.snapeda.com/parts/SSQ-104-03-G-S-LL/Samtec/view-part/?ref=eda"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -406,7 +722,7 @@
 					(justify bottom)
 				)
 			)
-			(property "PARTREV" "R"
+			(property "PARTREV" "A"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -418,7 +734,7 @@
 					(justify bottom)
 				)
 			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/SSW-103-03-F-S/Samtec/view-part/?ref=snap"
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/SSQ-104-03-G-S-LL/Samtec/view-part/?ref=snap"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -430,7 +746,19 @@
 					(justify bottom)
 				)
 			)
-			(property "MP" "SSW-103-03-F-S"
+			(property "MP" "SSQ-104-03-G-S-LL"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=3409242&manufacturer=Samtec&part_name=SSQ-104-03-G-S-LL&search_term=4 pin connector"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -466,10 +794,10 @@
 					(justify bottom)
 				)
 			)
-			(symbol "SSW-103-03-F-S_0_0"
+			(symbol "SSQ-104-03-G-S_0_0"
 				(rectangle
-					(start -7.62 -5.08)
-					(end 7.62 5.08)
+					(start -5.08 -7.62)
+					(end 5.08 5.08)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -479,7 +807,7 @@
 					)
 				)
 				(pin passive line
-					(at -12.7 2.54 0)
+					(at -10.16 2.54 0)
 					(length 5.08)
 					(name "01"
 						(effects
@@ -497,7 +825,7 @@
 					)
 				)
 				(pin passive line
-					(at -12.7 0 0)
+					(at -10.16 0 0)
 					(length 5.08)
 					(name "02"
 						(effects
@@ -515,7 +843,7 @@
 					)
 				)
 				(pin passive line
-					(at -12.7 -2.54 0)
+					(at -10.16 -2.54 0)
 					(length 5.08)
 					(name "03"
 						(effects
@@ -525,6 +853,24 @@
 						)
 					)
 					(number "03"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 -5.08 0)
+					(length 5.08)
+					(name "04"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "04"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -9528,12 +9874,6 @@
 		(uuid "ed954bd4-eed3-4770-a522-0b3865195375")
 	)
 	(junction
-		(at 278.13 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "06fc024c-7a25-40f5-90ff-affe3ae50b3c")
-	)
-	(junction
 		(at 317.5 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9558,12 +9898,6 @@
 		(uuid "7e5892f0-ba5e-478a-90ef-d4f662ea9f4f")
 	)
 	(junction
-		(at 278.13 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7e78fda0-2214-446d-a698-1f5f4d5bc512")
-	)
-	(junction
 		(at 267.335 160.655)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9580,12 +9914,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "953b4c4a-1b6b-4fc0-8557-ace5fcf3d9ea")
-	)
-	(junction
-		(at 278.13 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a1f3a3e5-ea43-44e4-9f82-14e4271cddc7")
 	)
 	(junction
 		(at 273.05 157.48)
@@ -11231,6 +11559,16 @@
 		)
 		(uuid "1033c21d-1d57-42bf-b672-3fd8e05ba1b2")
 	)
+	(wire
+		(pts
+			(xy 271.78 62.23) (xy 278.13 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11320892-3c12-46e2-aa3c-f6461c3a05b3")
+	)
 	(bus
 		(pts
 			(xy 215.9 99.06) (xy 215.9 101.6)
@@ -11723,16 +12061,6 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 81.28) (xy 307.34 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33cb3066-ac5a-45c4-9dc1-ecf3fb86c4c7")
-	)
-	(wire
-		(pts
 			(xy 354.965 173.355) (xy 354.965 175.26)
 		)
 		(stroke
@@ -11891,6 +12219,16 @@
 		)
 		(uuid "3a3f2ee7-e46d-4a23-b1df-00a15268c910")
 	)
+	(wire
+		(pts
+			(xy 266.7 39.37) (xy 266.7 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ad7258d-05b4-4cbb-a876-7b2d3bd4873a")
+	)
 	(bus
 		(pts
 			(xy 215.9 46.99) (xy 215.9 50.8)
@@ -11970,16 +12308,6 @@
 			(type default)
 		)
 		(uuid "3fae7766-7a99-4c5b-a066-a9593ffa3223")
-	)
-	(wire
-		(pts
-			(xy 278.13 48.26) (xy 278.13 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fe20973-f778-4cc1-86ec-2c7f1ca069b4")
 	)
 	(bus
 		(pts
@@ -12203,6 +12531,16 @@
 	)
 	(wire
 		(pts
+			(xy 278.13 54.61) (xy 278.13 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d01e658-05bc-48ef-918b-14d224035e31")
+	)
+	(wire
+		(pts
 			(xy 58.42 227.33) (xy 96.52 227.33)
 		)
 		(stroke
@@ -12390,6 +12728,16 @@
 			(type default)
 		)
 		(uuid "588c5275-1870-475b-aeec-0ece1243a424")
+	)
+	(wire
+		(pts
+			(xy 278.13 44.45) (xy 278.13 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "590d03ce-a6b2-4472-be67-942a23b569e7")
 	)
 	(wire
 		(pts
@@ -13103,16 +13451,6 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 48.26) (xy 273.05 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e3aa444-e629-482b-8a13-a419b8009120")
-	)
-	(wire
-		(pts
 			(xy 157.48 53.34) (xy 167.64 53.34)
 		)
 		(stroke
@@ -13493,16 +13831,6 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 58.42) (xy 278.13 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5f3321b-75c8-4317-83b6-65492c0ee84b")
-	)
-	(wire
-		(pts
 			(xy 340.995 217.17) (xy 340.995 218.44)
 		)
 		(stroke
@@ -13660,6 +13988,16 @@
 			(type default)
 		)
 		(uuid "af85daa8-9d56-4b41-a4c6-a807ef8c1b57")
+	)
+	(wire
+		(pts
+			(xy 266.7 81.28) (xy 278.13 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b012397c-8fd2-4d45-b8ed-2c60c2f0ede2")
 	)
 	(bus
 		(pts
@@ -13820,16 +14158,6 @@
 			(type default)
 		)
 		(uuid "ba61b20c-e7c6-48c3-bb5e-6848c1923913")
-	)
-	(wire
-		(pts
-			(xy 273.05 48.26) (xy 273.05 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba8d2e81-d5c1-46d9-b12f-991b546d889b")
 	)
 	(bus
 		(pts
@@ -14223,16 +14551,6 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 58.42) (xy 278.13 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cfebe815-b6bf-426e-bff7-9eeedfe3fbcf")
-	)
-	(wire
-		(pts
 			(xy 213.36 58.42) (xy 203.2 58.42)
 		)
 		(stroke
@@ -14253,16 +14571,6 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 41.91) (xy 278.13 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1686bae-fb37-4296-817e-3350c0c8c80c")
-	)
-	(wire
-		(pts
 			(xy 213.36 154.94) (xy 203.2 154.94)
 		)
 		(stroke
@@ -14273,13 +14581,13 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 54.61) (xy 278.13 58.42)
+			(xy 278.13 44.45) (xy 271.78 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d2403c88-341f-45a0-8df6-d9b3a1190750")
+		(uuid "d272c91d-fb23-435b-99ab-49504ff04c09")
 	)
 	(bus
 		(pts
@@ -14300,6 +14608,16 @@
 			(type default)
 		)
 		(uuid "d49fd990-2ffe-47a9-949d-133adac83dff")
+	)
+	(wire
+		(pts
+			(xy 266.7 62.23) (xy 266.7 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4d3696d-2cec-4770-bba8-f9db1809a22b")
 	)
 	(bus
 		(pts
@@ -14390,16 +14708,6 @@
 			(type default)
 		)
 		(uuid "db006af9-b5c0-45f6-8e07-9f65f4794475")
-	)
-	(wire
-		(pts
-			(xy 273.05 55.88) (xy 273.05 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc1cc11c-5b6d-434b-9dc9-094a96229e80")
 	)
 	(wire
 		(pts
@@ -17243,7 +17551,7 @@
 		(uuid "00c5fded-47e3-485d-ae68-462553b527a4")
 	)
 	(label "CS_A_Vsense"
-		(at 307.34 83.82 180)
+		(at 327.66 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17483,7 +17791,7 @@
 		(uuid "25334b2e-264e-419f-aa95-4fb7403de18f")
 	)
 	(label "DDR_Supply"
-		(at 281.94 81.28 0)
+		(at 278.13 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17762,6 +18070,16 @@
 		)
 		(uuid "53dad2b1-de85-4fce-907d-ff346f636b80")
 	)
+	(label "VSS_Sense"
+		(at 327.66 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "54fb9988-c94f-49c1-8eb4-31d74a2a6df1")
+	)
 	(label "A.DQ9"
 		(at 105.41 88.9 180)
 		(effects
@@ -18022,6 +18340,16 @@
 		)
 		(uuid "7c08c3ee-c14a-4523-a48f-abea9ac1573d")
 	)
+	(label "VSS_Sense"
+		(at 274.32 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7d4095d0-e148-4026-9daa-fb1e64927762")
+	)
 	(label "B.DQS2_P"
 		(at 213.36 113.03 180)
 		(effects
@@ -18261,6 +18589,16 @@
 			(justify right bottom)
 		)
 		(uuid "9e89bc07-419b-4d44-835d-cdecf58ce1a2")
+	)
+	(label "DDR_Sense"
+		(at 327.66 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a30aed87-6298-4e2b-bd20-2300604a2bf4")
 	)
 	(label "Control.PWR_EN"
 		(at 358.14 102.87 180)
@@ -18531,6 +18869,16 @@
 			(justify right bottom)
 		)
 		(uuid "cc9fbe59-e8a0-4d07-9a65-72dfbac3cc2d")
+	)
+	(label "DDR_Sense"
+		(at 274.32 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d43dd062-af30-4e0f-b622-25fb3484d26c")
 	)
 	(label "RFU2"
 		(at 346.075 158.75 0)
@@ -21090,6 +21438,240 @@
 		)
 	)
 	(symbol
+		(lib_id "Symbols:SSQ-104-03-G-S")
+		(at 337.82 81.28 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "432ab85c-544d-43b4-a945-a80c59197e6b")
+		(property "Reference" "J11"
+			(at 344.17 81.2799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SSQ-104-03-G-S"
+			(at 344.17 83.8199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Footprints:SAMTEC_SSQ-104-03-G-S"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "4 Position Receptacle Connector 0.100 (2.54mm) Through Hole Gold"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Samtec"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "8.81mm"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SSQ-104-03-G-S-LL/Samtec/view-part/?ref=eda"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "A"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SSQ-104-03-G-S-LL/Samtec/view-part/?ref=snap"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "SSQ-104-03-G-S-LL"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=3409242&manufacturer=Samtec&part_name=SSQ-104-03-G-S-LL&search_term=4 pin connector"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 337.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "01"
+			(uuid "8b13c100-5d9c-44b9-9fcc-0d5f3c180def")
+		)
+		(pin "02"
+			(uuid "4686e395-2afb-4cf0-b862-5e0e9dbdcb0e")
+		)
+		(pin "03"
+			(uuid "84c1cd57-914b-4e11-9a05-208eb551395f")
+		)
+		(pin "04"
+			(uuid "179207bd-bbee-480e-9b4a-f14badada189")
+		)
+		(instances
+			(project "sodimm-ddr5-tester"
+				(path "/1faa6543-e26a-4449-8bac-ee14b9f19e5f/00000000-0000-0000-0000-000061827943"
+					(reference "J11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicroResistors0402:R_0R_0402")
 		(at 273.05 171.45 90)
 		(unit 1)
@@ -22162,7 +22744,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:+5V")
-		(at 278.13 41.91 0)
+		(at 266.7 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22173,7 +22755,7 @@
 		(fields_autoplaced yes)
 		(uuid "60690e93-518b-446d-9b46-f2f0acf760a2")
 		(property "Reference" "#PWR0423"
-			(at 278.13 45.72 0)
+			(at 266.7 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22184,7 +22766,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 278.13 36.83 0)
+			(at 266.7 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22195,7 +22777,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 293.37 49.53 0)
+			(at 281.94 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22208,7 +22790,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 52.07 0)
+			(at 281.94 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22221,7 +22803,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 278.13 41.91 0)
+			(at 266.7 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22231,7 +22813,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 293.37 49.53 0)
+			(at 281.94 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22244,7 +22826,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 293.37 52.07 0)
+			(at 281.94 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22853,6 +23435,95 @@
 			(project "sodimm-ddr5-tester"
 				(path "/1faa6543-e26a-4449-8bac-ee14b9f19e5f/00000000-0000-0000-0000-000061827943"
 					(reference "Q11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Symbols:LVK12R010DER")
+		(at 271.78 44.45 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "673e832b-09aa-48cb-b058-f20d99698828")
+		(property "Reference" "R194"
+			(at 252.476 51.562 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LVK12R010DER"
+			(at 247.65 54.61 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Footprints:OH_LVK12_OHM"
+			(at 271.78 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "LVK12R010DER"
+			(at 271.78 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 271.78 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "bfff82b5-5a48-4bbb-882b-51d20a02e5b1")
+		)
+		(pin "4"
+			(uuid "aed22e2f-0612-4bfa-bc33-237727f9155b")
+		)
+		(pin "1"
+			(uuid "072db954-9b60-46dd-80ae-1d17c5091b7e")
+		)
+		(pin "2"
+			(uuid "5c2bbc65-bd82-4598-b660-48182361bb75")
+		)
+		(instances
+			(project "sodimm-ddr5-tester"
+				(path "/1faa6543-e26a-4449-8bac-ee14b9f19e5f/00000000-0000-0000-0000-000061827943"
+					(reference "R194")
 					(unit 1)
 				)
 			)
@@ -24473,7 +25144,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:GND")
-		(at 307.34 78.74 270)
+		(at 327.66 78.74 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24484,7 +25155,7 @@
 		(fields_autoplaced yes)
 		(uuid "78a9c76f-b721-4b09-8e3a-59e8297e1595")
 		(property "Reference" "#PWR0444"
-			(at 300.99 78.74 0)
+			(at 321.31 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24495,7 +25166,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 303.53 78.74 90)
+			(at 323.85 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24507,7 +25178,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 299.72 87.63 0)
+			(at 320.04 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24520,7 +25191,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 294.64 87.63 0)
+			(at 314.96 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24533,7 +25204,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 292.1 87.63 0)
+			(at 312.42 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24545,7 +25216,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 299.72 87.63 0)
+			(at 320.04 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24558,7 +25229,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 297.18 87.63 0)
+			(at 317.5 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25247,169 +25918,6 @@
 			(project "sodimm-ddr5-tester"
 				(path "/1faa6543-e26a-4449-8bac-ee14b9f19e5f/00000000-0000-0000-0000-000061827943"
 					(reference "C240")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicroResistors0402:R_4k7_0402")
-		(at 273.05 50.8 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8af20693-3b50-4802-a595-4a73393af57a")
-		(property "Reference" "R194"
-			(at 271.145 52.07 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "R_10m_0402"
-			(at 260.35 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 257.81 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf"
-			(at 255.27 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" ""
-			(at 273.05 50.8 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 250.19 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "CR0402-FX-4701GLF"
-			(at 252.73 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Val" "10m"
-			(at 271.145 55.2449 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify right)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 247.65 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 245.11 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Tolerance" "1%"
-			(at 262.89 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "b56de7d0-b1b3-435f-b601-bbb7b855ac2b")
-		)
-		(pin "2"
-			(uuid "77739909-e812-4d73-9d3b-7fad2f1da422")
-		)
-		(instances
-			(project "sodimm-ddr5-tester"
-				(path "/1faa6543-e26a-4449-8bac-ee14b9f19e5f/00000000-0000-0000-0000-000061827943"
-					(reference "R194")
 					(unit 1)
 				)
 			)
@@ -28807,213 +29315,6 @@
 			(project "sodimm-ddr5-tester"
 				(path "/1faa6543-e26a-4449-8bac-ee14b9f19e5f/00000000-0000-0000-0000-000061827943"
 					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Symbols:SSW-103-03-F-S")
-		(at 320.04 81.28 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d86c7351-b351-4b8f-9358-efa935ddba4c")
-		(property "Reference" "J10"
-			(at 328.93 80.0099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SSW-103-03-F-S"
-			(at 328.93 82.5499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Footprints:SAMTEC_SSW-103-03-F-S"
-			(at 320.04 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 320.04 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "3 Position Receptacle Connector 0.100 (2.54mm) Through Hole Gold"
-			(at 320.04 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "Samtec"
-			(at 320.04 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "None"
-			(at 320.04 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 320.04 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/SSW-103-03-F-S/Samtec/view-part/?ref=eda"
-			(at 320.04 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 320.04 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "PARTREV" "R"
-			(at 320.04 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SSW-103-03-F-S/Samtec/view-part/?ref=snap"
-			(at 320.04 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "SSW-103-03-F-S"
-			(at 320.04 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 320.04 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "Samtec"
-			(at 320.04 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "03"
-			(uuid "d32d4bd8-4b4a-4853-a13c-83493daf0f92")
-		)
-		(pin "02"
-			(uuid "a89e0c5d-4601-4328-86d7-d0dbf877929b")
-		)
-		(pin "01"
-			(uuid "34f14b9c-de27-4497-9390-7dff2d027a20")
-		)
-		(instances
-			(project "sodimm-ddr5-tester"
-				(path "/1faa6543-e26a-4449-8bac-ee14b9f19e5f/00000000-0000-0000-0000-000061827943"
-					(reference "J10")
 					(unit 1)
 				)
 			)
