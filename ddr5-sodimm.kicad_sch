@@ -25784,7 +25784,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
 			(at 330.2 20.32 0)
 			(hide yes)
 			(show_name no)
