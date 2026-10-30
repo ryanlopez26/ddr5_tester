@@ -1,0 +1,22 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-F_Cu.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-In1_Cu.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-In2_Cu.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-In3_Cu.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-In4_Cu.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-In5_Cu.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-In6_Cu.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-In7_Cu.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-In8_Cu.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-In9_Cu.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-In10_Cu.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-B_Cu.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-F_Paste.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-B_Paste.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-F_Silkscreen.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-B_Silkscreen.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-F_Mask.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-B_Mask.gbr'.
+Plotted to 'C:\GitHub\ddr5_tester\fab_output\sodimm-ddr5-tester-Edge_Cuts.gbr'.
+Info: Done.
